@@ -20,11 +20,12 @@ I am a computer science student from Madhya Pradesh, India. <br>I'm currently pu
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 
 ## 📊 GitHub Stats:
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=pradhumnchourey&label=Profile%20views&color=0e75b6&style=flat" alt="pradhumnchourey"/> </p>
-
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=pradhumnchourey&label=Profile%20views&color=0e75b6&style=flat" alt="pradhumnchourey"/>
+ 
 ![](https://github-readme-stats.vercel.app/api?username=pradhumnchourey&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pradhumnchourey&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhumnchourey&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+ </p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)<br>
