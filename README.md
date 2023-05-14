@@ -27,10 +27,8 @@ I am a computer science student from Madhya Pradesh, India. <br>I'm currently pu
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pradhumnchourey&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-<div align="right">![](https://github-readme-streak-stats.herokuapp.com/?user=pradhumnchourey&theme=default&hide_border=false)</div><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pradhumnchourey&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhumnchourey&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)<br/>
-
----
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)<br>
