@@ -7,15 +7,15 @@
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me **pradhumn.rchourey@gmail.com**
-# 💫 About Me:
-I am a computer science student from Madhya Pradesh, India. <br>I'm currently pursuing my MCA from International Institute of Professional Studies, DAVV, Indore.<br>I have keen interest in Machine Learning and Data Science.<br> 
-
 
 ## :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-pradhumnchourey-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradhumn-chourey/) [![Mail Badge](https://img.shields.io/badge/-pradhumn.rchourey-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pradhumn.rchourey@gmail.com) 
 <!-- [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis)[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) -->
+
+<!-- - 📫 How to reach me **pradhumn.rchourey@gmail.com** -->
+# 💫 About Me:
+I am a computer science student from Madhya Pradesh, India. <br>I'm currently pursuing my MCA from International Institute of Professional Studies, DAVV, Indore.<br>I have keen interest in Machine Learning and Data Science.<br> 
 
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradhumn-chourey) 
