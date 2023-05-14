@@ -1,5 +1,7 @@
 ## Hi, I'm Pradhumn! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 <h3 align="left">A passionate developer from India.</h3>
+- 🌱 I’m currently learning **DSA, JavaScript**
+- 💬 Ask me about **C++**
 
 ## :mailbox: Reach me out!
 
@@ -11,11 +13,6 @@
 
 ## 💫 About Me:
 I am a computer science student from Madhya Pradesh, India. <br>I'm currently pursuing my MCA from International Institute of Professional Studies, DAVV, Indore.<br>I have keen interest in Machine Learning and Data Science.<br> 
-
-- 🌱 I’m currently learning **DSA, JavaScript**
-- 💬 Ask me about **C++**
-<!-- - 📫 How to reach me **pradhumn.rchourey@gmail.com** -->
-
 
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradhumn-chourey) 
