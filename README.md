@@ -24,8 +24,7 @@ I am a computer science student from Madhya Pradesh, India. <br>I'm currently pu
 
 ## 📊 GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradhumnchourey&label=Profile%20views&color=0e75b6&style=flat" alt="pradhumnchourey"/></p>
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pradhumnchourey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhumnchourey&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pradhumnchourey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Pradhumn's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhumnchourey&theme=buefy&hide_border=false" /></a>
 
 
 ### ✍️ Random Dev Quote
