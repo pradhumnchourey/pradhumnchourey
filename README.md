@@ -1,20 +1,17 @@
 # Hi, I'm Pradhumn! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-<h3 align="left">A passionate developer from India.</h3>
 
+## 💫 About Me:
+<h3 align="left">A passionate developer from India.</h3>
 - 🌱 I’m currently learning **DSA** <br>
 - 💬 Ask me about **C++**
+
+I am a computer science student from Madhya Pradesh, India. <br>I'm currently pursuing my MCA from International Institute of Professional Studies, DAVV, Indore.<br>I have keen interest in Machine Learning and Data Science.<br> 
 
 ## :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-pradhumnchourey-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradhumn-chourey/) [![Mail Badge](https://img.shields.io/badge/-pradhumn.rchourey-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pradhumn.rchourey@gmail.com) [![Mail Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/pradhumn_chourey/) [![Mail Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&labelColor=2EC866&&logo=HackerRank&logoColor=white
 )](https://www.hackerrank.com/Pradhumn_Chourey)
 
-## 💫 About Me:
-I am a computer science student from Madhya Pradesh, India. <br>I'm currently pursuing my MCA from International Institute of Professional Studies, DAVV, Indore.<br>I have keen interest in Machine Learning and Data Science.<br> 
-
-<!-- ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pradhumn-chourey) 
- -->
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ### Python Libraries:
