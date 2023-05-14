@@ -1,4 +1,4 @@
-## Hi, I'm Pradhumn! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+# Hi, I'm Pradhumn! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 <h3 align="left">A passionate developer from India.</h3>
 
 - 🌱 I’m currently learning **DSA** <br>
@@ -29,4 +29,4 @@ I am a computer science student from Madhya Pradesh, India. <br>I'm currently pu
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true)<br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true)
