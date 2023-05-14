@@ -6,7 +6,7 @@
 
 ## 💫 About Me:
 
-I am a computer science student from Madhya Pradesh, India. <br>I'm currently pursuing my MCA from International Institute of Professional Studies, DAVV, Indore.<br>I have keen interest in Machine Learning and Data Science.<br> 
+I am a computer science student pursuing **MCA** from **International Institute of Professional Studies, DAVV, Indore.** I'm currently learning Data Structure and Algorithms which helps me a lot in solving questions on LeetCode and HackerRack. I have a keen interest in Machine Learning and Data Science. You can find my ML projects in the repositories.   
 
 ## :mailbox: Reach me out!
 
