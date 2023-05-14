@@ -19,6 +19,9 @@ I am a computer science student from Madhya Pradesh, India. <br>I'm currently pu
 ### Python Libraries:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 
+## Leetcode Profile:
+![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+
 ## 📊 GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradhumnchourey&label=Profile%20views&color=0e75b6&style=flat" alt="pradhumnchourey"/>
  
