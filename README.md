@@ -24,8 +24,8 @@ I am a computer science student from Madhya Pradesh, India. <br>I'm currently pu
 
 ## 📊 GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pradhumnchourey&label=Profile%20views&color=0e75b6&style=flat" alt="pradhumnchourey"/></p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pradhumnchourey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false&height=200px" alt="Pradhumn's github stats" /></a> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhumnchourey&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pradhumnchourey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false&height=200px" alt="Pradhumn's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhumnchourey&layout=donut" alt="Pradhumn's github stats" /></a>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhumnchourey&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=pradhumnchourey&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=pradhumnchourey&theme=default&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhumnchourey&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
