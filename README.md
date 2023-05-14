@@ -2,6 +2,7 @@
 
 ## 💫 About Me:
 <h3 align="left">A passionate developer from India.</h3>
+
 - 🌱 I’m currently learning **DSA** <br>
 - 💬 Ask me about **C++**
 
