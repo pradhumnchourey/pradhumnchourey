@@ -10,7 +10,7 @@ I am a computer science student pursuing **MCA** from **International Institute 
 
 ## :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-pradhumnchourey-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradhumn-chourey/) [![Mail Badge](https://img.shields.io/badge/-pradhumn.rchourey-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pradhumn.rchourey@gmail.com) [![Mail Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/pradhumn_chourey/) [![Mail Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&labelColor=2EC866&&logo=HackerRank&logoColor=white
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradhumn-chourey/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pradhumn.rchourey@gmail.com) [![Mail Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/pradhumn_chourey/) [![Mail Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&labelColor=2EC866&&logo=HackerRank&logoColor=white
 )](https://www.hackerrank.com/Pradhumn_Chourey)
 
 ## 💻 Tech Stack:
