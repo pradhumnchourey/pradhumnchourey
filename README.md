@@ -1,7 +1,8 @@
 # Hi, I'm Pradhumn! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 <h3 align="left">A passionate developer from India.</h3>
 
-- 🌱 I’m currently learning **DSA, Java & Pyhton** <br>
+- 🌱 I’m currently learning **React Native and Spring Boot** <br>
+- 🚧 Currenlty working on a Cross-Platform Application using React-Native.
 - 💬 Ask me about **C++, Java, ML**
 
 ## 💫 About Me:
