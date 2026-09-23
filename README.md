@@ -1,34 +1,80 @@
-# Hi, I'm Pradhumn! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-<h3 align="left">A passionate developer from India.</h3>
+# Pradhumn Chourey
 
-- 🌱 In the process of mastering **ROS (Robot Operating System)**. <br>
-- 🚀 Actively engaged in crafting a Cross-Platform Application with React Native. <br>
-- 💡 Feel free to inquire about **C++, Java, ML**.
+**Software Engineer | Java, Spring Boot & REST APIs | Automation Engineering**
 
-## 💫 About Me:
+I work with Java across automation engineering, backend development, API validation, and debugging.
 
-I am a computer science student pursuing **MCA** from **International Institute of Professional Studies, DAVV, Indore.** I'm currently learning Data Structure and Algorithms which helps me a lot in solving questions on LeetCode and HackerRack. I have a keen interest in Machine Learning and Data Science. You can find my ML projects in the repositories.   
+Professionally, I develop and maintain Java-based automation for enterprise ERP applications using Selenium, TestNG, Maven, JSON/XML, SQL, REST APIs, and application logs. My work involves building reusable automation components, validating backend data, and tracing issues across UI, API, and database layers.
 
-## :mailbox: Reach me out!
+Alongside my professional automation work, I build backend applications with Spring Boot and PostgreSQL. My current focus is strengthening my backend engineering skills around API design, application architecture, databases, authentication, and maintainable Java code.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradhumn-chourey/) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pradhumn.rchourey@gmail.com) [![Mail Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/pradhumn_chourey/) [![Mail Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&labelColor=2EC866&&logo=HackerRank&logoColor=white
-)](https://www.hackerrank.com/Pradhumn_Chourey)
+---
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-### Tools:
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&color=525252) ![Jupyter](https://img.shields.io/badge/%20-Jupyter-F9AB00?style=flat&logo=Jupyter&logoColor=white)
-### Python Libraries:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
+## Featured Project
 
-## Leetcode Profile:
-![](https://leetcard.jacoblin.cool/pradhumn_chourey?ext=heatmap)
+### MindMappers — Career Counselling Platform
 
-## 📊 GitHub Stats:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradhumnchourey&label=Profile%20views&color=0e75b6&style=flat" alt="pradhumnchourey"/></p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pradhumnchourey&show_icons=true&include_all_commits=true&theme=buefy&hide_border=false" alt="Pradhumn's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhumnchourey&theme=buefy&hide_border=false" /></a>
+A Java 17 / Spring Boot backend for a career-counselling platform supporting student assessments, personality profiling, career recommendations, packages, notifications, and dashboard workflows.
 
+**Highlights**
+- Modular Spring Boot backend using feature-based architecture
+- Multi-step, resumable assessment workflow
+- Trait scoring, personality determination, and career recommendations
+- JWT authentication with Spring Security and BCrypt
+- PostgreSQL with Spring Data JPA and Hibernate
+- DTO-based API design, validation, and centralized exception handling
+- Docker-based deployment
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&border=true)
+**Tech:** Java 17 · Spring Boot · PostgreSQL · Spring Data JPA · Spring Security · JWT · Docker · REST APIs
 
+[View MindMappers](https://mindmappers.co.in)
+
+---
+
+## Technical Focus
+
+### Backend
+Java · Spring Boot · Spring Security · REST APIs · JWT · Spring Data JPA · Hibernate
+
+### Automation & Testing
+Selenium WebDriver · TestNG · Maven · Page Object Model · Data-Driven Testing · API Testing · Postman
+
+### Data & Integration
+PostgreSQL · MySQL · SQL · JSON · XML
+
+### Engineering Tools
+Git · GitHub · Docker · Log4j · IntelliJ IDEA · Browser DevTools
+
+### Core Concepts
+Object-Oriented Programming · Data Structures & Algorithms · Design Patterns · API Design · Debugging · Agile Development
+
+---
+
+## Professional Background
+
+- **Automation Test Engineer** — BatchMaster Software Pvt. Ltd.
+  - Java-based Selenium automation for enterprise ERP applications
+  - 1,000+ automated regression test suite
+  - REST API and SQL validation
+  - TestNG/Maven parallel execution
+  - Debugging across UI, API, and database layers
+
+- **Software Developer Intern** — ISGY ITPremier Solutions Pvt. Ltd.
+  - Spring Boot REST APIs
+  - Spring Security and BCrypt authentication
+  - MySQL and Postman-based API validation
+
+---
+
+## Problem Solving
+
+Solved **400+ coding problems** across LeetCode and other competitive-programming platforms, with HackerRank 5-Star ratings in Java, C++, SQL, and Problem Solving.
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/pradhumn-chourey/) ·
+[LeetCode](https://leetcode.com/pradhumn_chourey/) ·
+[HackerRank](https://www.hackerrank.com/Pradhumn_Chourey) ·
+[Email](mailto:pradhumn.rchourey@gmail.com)
